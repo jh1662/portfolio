@@ -19,6 +19,9 @@ nav{
     border-style: none;
     border-top-style: dashed;
 }
-
+.pdf{
+    width: 100%;
+    height: 100vh;
+}
 /* *{ outline: 1px solid purple !important; }
 /*^ debug line
